@@ -15,11 +15,11 @@ body {
 }
 
 button {
-  padding: 60px;
+  padding: 90px;
   background: transparent;
   text-shadow: 1px 1px 1px #202020;
   font-family: "Lato", sans-serif;
-  font-size: 90pt;
+  font-size: 60pt;
   border: 1px solid lightblue;
   color: #fff;
 }
